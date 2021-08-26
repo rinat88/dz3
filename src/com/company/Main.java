@@ -18,6 +18,10 @@ public class Main {
                     break;
                 case "Ali" :
                     System.out.println("Hi " + "Ali");
+                    break;
+                    default :
+                    System.out.println("System is error");
+                    
 
 
             }
